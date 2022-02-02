@@ -7,4 +7,10 @@ This repository contains the code, queries, and eBook included as part of the Ad
 The series has it's own shortlink. To return back here, just remember the easy URL:  https://aka.ms/Addicted2KQL
 <br><br>
 <b><h2>Table of Contents</h2></b>
-The following are links to the entire series so far:
+The following are links to the entire series so far:<br>
+
+* Addicted to KQL Part 1: Parsing Unruly Data<br>
+* Addicted to KQL Part 2: Repeatable Repercussion (Functions)<br>
+* Addicted to KQL Part 3: Using KQL for Hunting Operations<br><br>
+
+<b>NOTE:</b> The series is currently being developed. The TOC may change dramatically prior to launch.
