@@ -15,3 +15,5 @@ The following are links to the entire series so far:<br>
 * Addicted to KQL Part 3: Using KQL for Hunting Operations<br><br>
 
 <b>NOTE:</b> The series is currently being developed. The TOC may change dramatically prior to launch.
+
+<p align="center"><img src="https://github.com/rod-trent/AddictedtoKQL/blob/main/Series_Images/Addicted%20to%20KQL%20Promo%20Image%20Smaller.png" alt="Addicted to KQL"></center></p>
