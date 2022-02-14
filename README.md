@@ -1,4 +1,4 @@
-# COMING - Planned for 2022<br>
+# COMING - Planned for 2022 <i>possible March unveiling</i><br>
 # Addicted to KQL - the blog series, the book, the video channel, the merch store<br>
 <p align="right"><img src="https://github.com/rod-trent/AddictedtoKQL/blob/main/Series_Images/Addicted%20to%20KQL%20Promo%20Image%20Smallest.png" alt="Addicted to KQL"></center></p>
 This repository contains the code, queries, and eBook included as part of the Addicted to KQL series. The series is a continuing effort to discuss and educate about the power and simplicity of the Kusto Query Language. <br><br>
