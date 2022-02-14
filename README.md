@@ -12,7 +12,8 @@ The following are links to the entire series so far:<br>
 <i>(links go live when each part/chapter is released)</i>
 * Addicted to KQL Part 1: Parsing Unruly Data<br>
 * Addicted to KQL Part 2: Repeatable Repercussion - Building Functions<br>
-* Addicted to KQL Part 3: Using KQL for Hunting Operations<br><br>
+* Addicted to KQL Part 3: Using KQL for Hunting Operations<br>
+* Addicted to KQL Part 4: REGEX<br><br>
 
 <b>NOTE:</b> The series is currently being developed. The TOC may change dramatically prior to launch.
 
