@@ -15,6 +15,7 @@ The following are links to the entire series so far:<br>
 * Addicted to KQL Part 4: Deep dive into Join<br>
 * Addicted to KQL Part 4: REGEX<br>
 * Addicted to KQL Part 4: Using External Data Sources<br>
+* Addicted to KQL Part 4: Optimizing Queries and Best Practices<br>
 * Addicted to KQL Part 5: Using KQL for Hunting Operations<br><br>
 
 <b>NOTE:</b> The series is currently being developed. The TOC may change dramatically prior to launch.
