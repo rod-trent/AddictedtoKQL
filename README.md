@@ -12,11 +12,12 @@ The following are links to the entire series so far:<br>
 <i>(links go live when each part/chapter is released)</i>
 * Addicted to KQL Part 1: Parsing Unruly Data<br>
 * Addicted to KQL Part 2: Repeatable Repercussion - Building Functions<br>
-* Addicted to KQL Part 4: Deep dive into Join<br>
+* Addicted to KQL Part 3: Deep dive into Join<br>
 * Addicted to KQL Part 4: REGEX<br>
-* Addicted to KQL Part 4: Using External Data Sources<br>
-* Addicted to KQL Part 4: Optimizing Queries and Best Practices<br>
-* Addicted to KQL Part 5: Using KQL for Hunting Operations<br><br>
+* Addicted to KQL Part 5: Using External Data Sources<br>
+* Addicted to KQL Part 6: Time Series<br>
+* Addicted to KQL Part 7: Optimizing Queries and Best Practices<br>
+* Addicted to KQL Part 8: Using KQL for Hunting Operations<br><br>
 
 <b>NOTE:</b> The series is currently being developed. The TOC may change dramatically prior to launch.
 
