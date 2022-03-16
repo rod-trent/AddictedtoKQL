@@ -1,0 +1,4 @@
+//From the Addicted to KQL series talking about Standard Columns
+
+SecurityEvent //table name
+| project _BilledSize //showing standard column: _BilledSize
