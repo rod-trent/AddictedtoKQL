@@ -10,8 +10,8 @@ The series has it's own shortlink. To return back here, just remember the easy U
 The following are links to the entire series so far:<br>
 <i>(links go live when each part/chapter is released)</i>
 * <a href="https://cda.ms/41x" target="_blank">Addicted to KQL Part 0: The Wit and Wisdom of Standard Columns in Azure Monitor Logs</a> <i>Posted March 16, 2022</i><br>
-* <b>Addicted to KQL Part 1: Parsing Unruly Data</b>
-** <a href="https://cda.ms/48p" target="_blank">Addicted to KQL Part 1.a: Access sub-columns using the bag_unpack plugin</a> - <i>Posted April 18, 2022, Gary Bushey</i><br>
+* <b>Addicted to KQL Part 1: Parsing Unruly Data</b><br>
+    ** <a href="https://cda.ms/48p" target="_blank">Addicted to KQL Part 1.a: Access sub-columns using the bag_unpack plugin</a> - <i>Posted April 18, 2022, Gary Bushey</i><br>
 * Addicted to KQL Part 2: Repeatable Repercussion - Building Functions<br>
 * Addicted to KQL Part 3: Deep dive into Join<br>
 * Addicted to KQL Part 4: REGEX<br>
