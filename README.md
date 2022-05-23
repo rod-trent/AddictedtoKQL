@@ -16,8 +16,8 @@ The following are links to the entire series so far:<br>
 * Addicted to KQL Part 3: Deep dive into Join<br>
 * Addicted to KQL Part 4: REGEX<br>
 * Addicted to KQL Part 5: Using External Data Sources<br>
-* Addicted to KQL Part 6: Time Series - <a href="https://cda.ms/4hs" target="_blank">Azure KQL – Time After Time</a> - <i>Posted May 16, 2022 by Gary Bushey</i><br><br>
-* Addicted to KQL Part 7: Working with IP Addresses - <a href="https://cda.ms/4k8" target="_blank">Azure KQL – Working with IP Addresses</a> - <i>Posted May 21, 2022 by Gary Bushey</i><br><br>
+* Addicted to KQL Part 6: Time Series - <a href="https://cda.ms/4hs" target="_blank">Azure KQL – Time After Time</a> - <i>Posted May 16, 2022 by Gary Bushey</i><br>
+* Addicted to KQL Part 7: Working with IP Addresses - <a href="https://cda.ms/4k8" target="_blank">Azure KQL – Working with IP Addresses</a> - <i>Posted May 21, 2022 by Gary Bushey</i><br>
 * Addicted to KQL Part 8: Optimizing Queries and Best Practices<br>
 * Addicted to KQL Part 9: Using KQL for Hunting Operations<br><br>
 
