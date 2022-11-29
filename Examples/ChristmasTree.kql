@@ -6,7 +6,7 @@ let tree_height = 15;
  range i from 0 to tree_height*2  step 2   
  | extend side_width = tree_height + 1 - i /2
  | extend side_space = strcat_array(repeat(strcat(invisible_space,''),  side_width), " ")
- | project Merry_Christmas = case(i != 0, strcat(side_space, "✵", strcat_array(repeat("-", i-1), ""), @"✵", side_space), strcat(side_space, " ✵", side_space))
+ | project Merry_Christmas = case(i != 0, strcat(side_space, "🌲", strcat_array(repeat("-", i-1), ""), @"🌲", side_space), strcat(side_space, " 🌟", side_space))
  
  
  //What it looks like: https://github.com/rod-trent/AddictedtoKQL/blob/main/Series_Images/tree.png
