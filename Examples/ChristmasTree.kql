@@ -1,7 +1,7 @@
 //Hey, look! A Christmas tree made from KQL!
 
 
-let tree_height = 10;
+let tree_height = 15;
  let invisible_space = '\u00AD';
  range i from 0 to tree_height*2  step 2   
  | extend side_width = tree_height + 1 - i /2
