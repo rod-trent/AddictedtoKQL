@@ -9,4 +9,4 @@ let tree_height = 15;
  | project Merry_Christmas = case(i != 0, strcat(side_space, "🌲", strcat_array(repeat("-", i-1), ""), @"🌲", side_space), strcat(side_space, " 🌟", side_space))
  
  
- //What it looks like: https://github.com/rod-trent/AddictedtoKQL/blob/main/Series_Images/ChristmasTree.png
+ //What it looks like: https://github.com/rod-trent/AddictedtoKQL/blob/main/Series_Images/christmastree.png
