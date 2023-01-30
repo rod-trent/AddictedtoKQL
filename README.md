@@ -23,4 +23,4 @@ The following are links to the entire series so far:<br>
 
 <b>NOTE:</b> The series is currently being developed. The TOC may change dramatically prior to launch.
 
-<p align="center"><img src="https://github.com/rod-trent/AddictedtoKQL/blob/main/Series_Images/SeriesImage.png" alt="Addicted to KQL"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/AddictedtoKQL/blob/main/Series_Images/seriesimage.png" alt="Addicted to KQL"></center></p>
