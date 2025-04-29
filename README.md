@@ -18,8 +18,10 @@ The following are links to the entire series so far:<br>
 * Addicted to KQL Part 5: Using External Data Sources<br>
 * Addicted to KQL Part 6: Time Series - <a href="https://www.garybushey.com/2022/05/14/azure-kql-time-after-time/" target="_blank">Azure KQL – Time After Time</a> - <i>Posted May 16, 2022 by Gary Bushey</i><br>
 * Addicted to KQL Part 7: Working with IP Addresses - <a href="https://www.garybushey.com/2022/05/21/azure-kql-working-with-ip-addresses/" target="_blank">Azure KQL – Working with IP Addresses</a> - <i>Posted May 21, 2022 by Gary Bushey</i><br>
-* Addicted to KQL Part 8: Optimizing Queries and Best Practices<br>
+* Addicted to KQL Part 8: Fine-Tuning KQL Query Performance: Best Practices - <a href="https://rodtrent.substack.com/p/fine-tuning-kql-query-performance" target="_blank">Fine-Tuning KQL Query Performance: Best Practices</a> - <i>Posted April 25, 2025</i><br>
 * Addicted to KQL Part 9: Using KQL for Hunting Operations<br><br>
+* Addicted to KQL Part 10: Leveraging KQL to Analyze Malware Trends and Identify Recurring Threats - <a href="https://rodtrent.substack.com/p/leveraging-kql-to-analyze-malware" target="_blank">Leveraging KQL to Analyze Malware Trends and Identify Recurring Threats</a> - <i>Posted April 28, 2025</i><br>
+* Addicted to KQL Part 11: Using KQL to Identify Suspicious Behavior - <a href="https://rodtrent.substack.com/p/using-kql-to-identify-suspicious" target="_blank">Using KQL to Identify Suspicious Behavior</a> - <i>Posted April 29, 2025</i><br>
 
 <b>NOTE:</b> The series is currently being developed. The TOC may change dramatically prior to launch.
 
